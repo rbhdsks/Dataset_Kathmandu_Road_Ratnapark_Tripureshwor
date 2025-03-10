@@ -1,0 +1,11 @@
+car
+bus
+motorcycle
+cycle
+pedestrian
+truck
+auto_rickshaw
+traffic_signs
+traffic_signal
+animal
+other_vehicles
