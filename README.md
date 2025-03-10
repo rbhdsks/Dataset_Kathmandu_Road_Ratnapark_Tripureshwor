@@ -20,7 +20,7 @@ Kathmandu_Road_Ratnapark_Tripureshwor/
 │   ├── img_001.jpg
 │   ├── img_002.jpg
 │   └── ...
-├── annotations/
+├── labels/
 │   ├── img_001.xml
 │   ├── img_002.xml
 │   └── ...
@@ -84,7 +84,7 @@ Please cite this dataset in your work as follows:
 ## Contributors
 
 - **Nitesh Kumar Shah**, Student, IIIT Allahabad ([iib2021002@iiita.ac.in](mailto\:iib2021002@iiita.ac.in))
-- **Jahnavi Gadde**, Student, IIIT Allahabad
+- **Gadde Jahnavi**, Student, IIIT Allahabad ([iit2021190@iiita.ac.in](mailto\:iit2021190@iiita.ac.in))
 - **Kartikeya Gullapalli**, Student, University of Texas, Austin
 - **Chandra Prakash Maurya**, Research Scholar, IIIT Allahabad 
 - **Prof. Dr. Navjot Singh**, Assistant Professor, IIIT Allahabad ([navjot@iiita.ac.in](mailto\:navjot@iiita.ac.in))
