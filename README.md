@@ -17,12 +17,12 @@ This dataset comprises annotated images captured on the route from Ratnapark to 
 ```
 Kathmandu_Road_Ratnapark_Tripureshwor/
 ├── img/
-│   ├── img_001.jpg
-│   ├── img_002.jpg
+│   ├── frame_077.jpg
+│   ├── frame_101.jpg
 │   └── ...
 ├── labels/
-│   ├── img_001.xml
-│   ├── img_002.xml
+│   ├── frame_001.txt
+│   ├── frame__002.txt
 │   └── ...
 └── README.md
 ```
@@ -60,7 +60,7 @@ Example Python usage:
 ```python
 import cv2
 
-image = cv2.imread('images/img_001.jpg')
+image = cv2.imread('img/frames_001.jpg')
 # Annotation can be processed from the XML file
 ```
 
@@ -77,7 +77,7 @@ Please cite this dataset in your work as follows:
   author = {Nitesh Kumar Shah and Chandra Prakash Maurya and Navjot Singh and Kartikeya Gullapalli and Jahnavi Gadde},
   title = {Kathmandu Road Dataset: Ratnapark to Tripureshwor},
   year = {2025},
-  url = {https://github.com/YourGitHubUsername/Kathmandu_Road_Ratnapark_Tripureshwor}
+  url = {https://github.com/rbhdsks/Kathmandu_Road_Ratnapark_Tripureshwor}
 }
 ```
 
