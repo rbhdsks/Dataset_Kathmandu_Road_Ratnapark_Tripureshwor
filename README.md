@@ -16,7 +16,7 @@ This dataset comprises annotated images captured on the route from Ratnapark to 
 
 ```
 Kathmandu_Road_Ratnapark_Tripureshwor/
-├── images/
+├── img/
 │   ├── img_001.jpg
 │   ├── img_002.jpg
 │   └── ...
